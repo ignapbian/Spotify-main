@@ -1,0 +1,8 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: postgresql://ignacioga62:XBTKGdV9zbL0@ep-still-darkness-a2ygz8bs.eu-central-1.aws.neon.tech/songsdb?sslmode=require
+  - configuration:
+      name: auth_config
+      client_id: 5e97cbc4f01a4099b8710d62c60ce870
+      client_secret: 4417c8d2f86f469293d2bc9404836ee4
